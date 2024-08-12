@@ -39,7 +39,6 @@ document.getElementById("signupForm").addEventListener("submit", function(event)
     // If the form is valid, proceed with submission or further processing
     if (isValid) {
         alert("Sign-up successful!");
-        // You can submit the form data to a server or proceed with further processing here
     }
 });
 
